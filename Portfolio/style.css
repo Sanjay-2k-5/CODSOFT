@@ -260,7 +260,6 @@ section{
     transition: color 0.3s ease-in-out;
 }
 
-/* Hover Effect */
 .skills-card:hover {
     background-color: #000; 
     color: #fff; 
